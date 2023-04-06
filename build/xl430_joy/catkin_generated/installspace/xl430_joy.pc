@@ -1,0 +1,8 @@
+prefix=/home/yyj/catkin_ws/install
+
+Name: xl430_joy
+Description: Description of xl430_joy
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib -lxl430_joy
+Requires: roscpp std_msgs

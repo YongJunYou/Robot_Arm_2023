@@ -1,0 +1,8 @@
+prefix=/home/yyj/catkin_ws/devel
+
+Name: mg966r_joy
+Description: Description of mg966r_joy
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib -lmg966r_joy
+Requires: roscpp std_msgs

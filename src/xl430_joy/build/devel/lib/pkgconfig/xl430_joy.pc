@@ -1,0 +1,8 @@
+prefix=/home/yyj/catkin_ws/src/xl430_joy/build/devel
+
+Name: xl430_joy
+Description: Description of xl430_joy
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

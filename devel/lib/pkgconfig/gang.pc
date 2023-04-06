@@ -1,0 +1,8 @@
+prefix=/home/yyj/catkin_ws/devel
+
+Name: gang
+Description: Description of gang
+Version: 0.0.0
+Cflags: -I/home/yyj/catkin_ws/src/gang/include
+Libs: -L${prefix}/lib -lgang
+Requires: roscpp std_msgs message_generation
