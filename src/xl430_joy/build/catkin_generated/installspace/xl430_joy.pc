@@ -1,8 +1,0 @@
-prefix=/usr/local
-
-Name: xl430_joy
-Description: Description of xl430_joy
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 
