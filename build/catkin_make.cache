@@ -1,2 +1,0 @@
-mg966r_joy:xl430_joy
--DCATKIN_DEVEL_PREFIX=/home/yyj/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/yyj/catkin_ws/install -G Unix Makefiles
